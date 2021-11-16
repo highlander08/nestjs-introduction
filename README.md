@@ -2,10 +2,6 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
-[![Slack Status](http://slack.mongoosejs.io/badge.svg)](http://slack.mongoosejs.io)
-[![Build Status](https://github.com/Automattic/mongoose/workflows/Test/badge.svg)](https://github.com/Automattic/mongoose)
-[![NPM version](https://badge.fury.io/js/mongoose.svg)](http://badge.fury.io/js/mongoose)
-
 [![npm](https://nodei.co/npm/mongoose.png)](https://www.npmjs.com/package/mongoose)
 
 [travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
